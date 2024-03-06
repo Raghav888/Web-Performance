@@ -1,0 +1,3 @@
+Hydration works only with SSR.
+In this only the html is generated on Server and sent to client.
+Later JS code is requested and added to the HTML.
