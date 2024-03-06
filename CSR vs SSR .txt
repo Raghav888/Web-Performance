@@ -1,0 +1,10 @@
+https://medium.com/@prashantramnyc/server-side-rendering-ssr-vs-client-side-rendering-csr-vs-pre-rendering-using-static-site-89f2d05182ef
+
+In Server Side Rendering (SSR) the HTML components of the webpage are generated on the server-side. When a browser requests a SSR web page, 
+the browser receives a fully formed HTML web page with the HTML components already created.
+
+
+n Client side rendering(CSR), the HTML components are generated on the client-side by executing Javascript code in the browser.
+
+In this case when a browser requests a webpage, the initial server request returns a minimal HTML file that serves as the application container, 
+and primarily contains the link to the React/Vue JavaScript bundle,
